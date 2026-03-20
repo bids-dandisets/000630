@@ -1,4 +1,17 @@
 {
+    "Name": "Human L1 patch-seq electrophysiology",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "Patch-seq electrophysiology data from human neocortical L1 neurons, accompanying the manuscript \"Morpho-electric and transcriptomic divergence of the layer 1 interneuron repertoire in human versus mouse neocortex\" (https://www.biorxiv.org/content/10.1101/2022.10.24.511199).\n\nAnalysis code and extracted features available at https://github.com/AllenInstitute/patchseq_human_L1. Feature extraction package available at https://github.com/AllenInstitute/ipfx.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev4+gc93cee118",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
