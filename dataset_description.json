@@ -4,7 +4,13 @@
     "HEDVersion": "8.3.0",
     "Description": "Patch-seq electrophysiology data from human neocortical L1 neurons, accompanying the manuscript \"Morpho-electric and transcriptomic divergence of the layer 1 interneuron repertoire in human versus mouse neocortex\" (https://www.biorxiv.org/content/10.1101/2022.10.24.511199).\n\nAnalysis code and extracted features available at https://github.com/AllenInstitute/patchseq_human_L1. Feature extraction package available at https://github.com/AllenInstitute/ipfx.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Chartrand, Thomas",
+        "Lee, Brian",
+        "Dalley, Rachel",
+        "Lein, Ed",
+        "Kalmbach, Brian"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
